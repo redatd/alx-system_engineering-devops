@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -r /tmp/sym/*[[:upper:]]* /tmp/u
+cp -r /tmp/sym *[[:upper:]]* /tmp/u
